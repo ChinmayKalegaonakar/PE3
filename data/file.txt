@@ -1,0 +1,2 @@
+this text file is read in uppercase
+its fun
