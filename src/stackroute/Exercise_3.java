@@ -115,13 +115,13 @@ public class Exercise_3 {
 	}
 	public void drawMenu() {
 		System.out.println("---------EXERCISE 2------------");
-		System.out.println("| 1 - Question 1 palindrome   |");
-		System.out.println("| 2 - Question 2 four power   |");
-		System.out.println("| 3 - Question 3 member class |");
-		System.out.println("| 4 - Question 4 isEven       |");
-		System.out.println("| 5 - Question 5 grades       |");
-		System.out.println("| 6 - Question 6 factorial    |");
-		System.out.println("| 7 - Question 7 user class   |");
+		System.out.println("| 1 - Question 1 Student mark |");
+		System.out.println("| 2 - Question 2 matrix opera |");
+		System.out.println("| 3 - Question 3 date not done|");
+		System.out.println("| 4 - Question 4 chessboard   |");
+		System.out.println("| 5 - Question 5 consecutiv e |");
+		System.out.println("| 6 - Question 6 exception 1  |");
+		System.out.println("| 7 - Question 7 exception 2  |");
 		System.out.println("-------------------------------");
 		System.out.println("");
 		System.out.println("-------------------------------");
